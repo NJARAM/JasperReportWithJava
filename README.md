@@ -1,4 +1,4 @@
-#PDF Report Generation
+# PDF Report Generation
 A java application to generate pdf with static data 
 ## Features
 - Static PDF report generation
